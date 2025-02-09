@@ -1,2 +1,2 @@
 # Module1-Assessment
-Practicing with friend
+Practicing with a friend
